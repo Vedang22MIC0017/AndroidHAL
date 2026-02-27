@@ -1,6 +1,6 @@
 # AndroidHAL Simulator (Basic Implementation)
 
-This repository contains a minimal end‑to‑end Android HAL style simulator that matches the resume description:
+This repository contains a minimal end‑to‑end Android HAL style simulator :
 
 - C++ HAL module that simulates camera and audio sensor interfaces
 - V4L2‑style abstraction layer for camera frames
